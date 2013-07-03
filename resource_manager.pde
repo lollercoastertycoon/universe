@@ -1,0 +1,2 @@
+class ResourceManager extends ObjectManager {
+}

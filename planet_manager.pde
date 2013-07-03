@@ -1,0 +1,3 @@
+class PlanetManager extends ObjectManager {
+
+}
